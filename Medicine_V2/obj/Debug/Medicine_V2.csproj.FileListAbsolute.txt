@@ -1,0 +1,7 @@
+C:\Users\valen\source\repos\Medicine_V2\Medicine_V2\bin\Debug\Medicine_V2.exe.config
+C:\Users\valen\source\repos\Medicine_V2\Medicine_V2\bin\Debug\Medicine_V2.exe
+C:\Users\valen\source\repos\Medicine_V2\Medicine_V2\bin\Debug\Medicine_V2.pdb
+C:\Users\valen\source\repos\Medicine_V2\Medicine_V2\obj\Debug\Medicine_V2.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\Medicine_V2\Medicine_V2\obj\Debug\Medicine_V2.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\Medicine_V2\Medicine_V2\obj\Debug\Medicine_V2.exe
+C:\Users\valen\source\repos\Medicine_V2\Medicine_V2\obj\Debug\Medicine_V2.pdb
